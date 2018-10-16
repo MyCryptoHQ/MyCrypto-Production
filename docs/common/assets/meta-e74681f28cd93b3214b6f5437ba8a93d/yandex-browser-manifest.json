@@ -1,9 +1,0 @@
-{
-  "version": "1.3.1",
-  "api_version": 1,
-  "layout": {
-    "logo": "/common/assets/meta-e74681f28cd93b3214b6f5437ba8a93d/yandex-browser-50x50.png",
-    "color": "#fff",
-    "show_title": true
-  }
-}
