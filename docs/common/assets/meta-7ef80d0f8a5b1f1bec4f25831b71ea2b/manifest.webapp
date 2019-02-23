@@ -1,0 +1,14 @@
+{
+  "version": "1.5.8",
+  "name": "MyCrypto",
+  "description": "Ethereum web interface",
+  "icons": {
+    "60": "/common/assets/meta-7ef80d0f8a5b1f1bec4f25831b71ea2b/firefox_app_60x60.png",
+    "128": "/common/assets/meta-7ef80d0f8a5b1f1bec4f25831b71ea2b/firefox_app_128x128.png",
+    "512": "/common/assets/meta-7ef80d0f8a5b1f1bec4f25831b71ea2b/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "MyCryptoHQ",
+    "url": null
+  }
+}
