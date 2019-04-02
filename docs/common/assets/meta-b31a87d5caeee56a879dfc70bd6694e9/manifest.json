@@ -11,47 +11,47 @@
   "theme_color": "#007896",
   "icons": [
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-36x36.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-36x36.png",
       "sizes": "36x36",
       "type": "image/png"
     },
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-48x48.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-48x48.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-72x72.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-96x96.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-144x144.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-192x192.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-256x256.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-256x256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-384x384.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "/common/assets/meta-f6fc133e529e21f11c801bcf2f80c21b/android-chrome-512x512.png",
+      "src": "/common/assets/meta-b31a87d5caeee56a879dfc70bd6694e9/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
